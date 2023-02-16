@@ -2,7 +2,7 @@
 
 <p align="center"><img width="100" src="https://vuejs.org/images/logo.png"></p>
 
-<h2 align="center">wguang-cli（一个简单的前端CLI工具）</h2>
+<h2 align="center">avl-cli（一个简单的前端CLI工具）</h2>
 <p align="center"><b>基于Node搭建生成个人前端脚手架（vue）</b></p>
 
 # 目录
@@ -34,16 +34,16 @@ $ avl init [templateName] [yourProjectName]
 安装说明:
 
 默认的脚手架模板名称是vue-admin
-> wguang init vue-admin [yourProjectName]
+> avl init vue-admin [yourProjectName]
 
 ### 新增模板用法
 
 ```bash
-wguang add
+avl add
 # 选择模板和模板地址（github地址）
 ```
 
-![wguang-add](./img/readme_add.png)
+![avl-add](./img/readme_add.png)
 
 - 注意：模板地址为git仓库名称 默认拉取master分支
  如果想指定分支 请使用 **owner/name#my-branch**的方式
@@ -61,24 +61,24 @@ avl delete
 ### 查看所有模板用法
 
 ```bash
-wguang list
+avl list
 ```
 
 ### 初始化项目脚手架用法
 
 ```bash
-wguang init 或者 wguang init [templateName] [yourProjectName]
+avl init 或者 avl init [templateName] [yourProjectName]
 ```
 
-![wguang-add](./img/readme_init.png)
+![avl-add](./img/readme_init.png)
 
 
 ## 贡献者们
-- huabintang
+- BigSharkLx
 
 ## 维护者
 
-- [huabintang](https://github.com/huabintang)
+- [BigSharkLx](https://github.com/BigSharkLx)
 
 ## License
 
