@@ -25,10 +25,10 @@
 ### 安装
 
 ```bash
-$ npm i avl-cli -g               # install cli
+$ npm i wguang-cli -g               # install cli
 $ omi init my-app     # init project, you can also exec 'omi init' in an empty folder
 $ cd my-app           # please ignore this command if you executed 'omi init' in an empty folder
-$ avl init [templateName] [yourProjectName]
+$ wguang init [templateName] [yourProjectName]
 ```
 
 安装说明:
@@ -47,16 +47,16 @@ wguang add
 
 - 注意：模板地址为git仓库名称 默认拉取master分支
  如果想指定分支 请使用 **owner/name#my-branch**的方式
-![avl-add](./img/readme_gitAddress.png)
+![wguang-add](./img/readme_gitAddress.png)
 
 ### 删除模板用法
 
 ```bash
-avl delete
+wguang delete
 # 选择模板
 ```
 
-![avl-add](./img/readme_delete.png)
+![wguang-add](./img/readme_delete.png)
 
 ### 查看所有模板用法
 
