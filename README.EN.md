@@ -74,11 +74,11 @@ wguang init 或者 wguang init [templateName] [yourProjectName]
 
 
 ## Contribution
-- BigSharkLx
+- huabintang
 
 ## Maintainers
 
-- [BigSharkLx](https://github.com/BigSharkLx)
+- [huabintang](https://github.com/huabintang)
 
 ## License
 
